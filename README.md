@@ -1,5 +1,5 @@
 # Quick Coloring Book
-Just a quick coloring game in HTML, just trying to do something with Bootstrap and SVG.
+Just a quick coloring game with Bootstrap and some JavaScript, using an SVG image.
 
 ![screenshot](preview.jpg)
 
