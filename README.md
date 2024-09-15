@@ -9,4 +9,4 @@ Just a quick coloring game with HTML, CSS and some JavaScript, using an SVG imag
 <li>SVG Image with Black Bacground and zones divided for colors.</li>  
 </ul>
 
-<a href="https://www.newgrounds.com/portal/view/943475" target="_blank">Also Available at NewGrounds</a>
+<a href="https://www.newgrounds.com/portal/view/943475" target="_blank">Also uploaded at NewGrounds</a>
